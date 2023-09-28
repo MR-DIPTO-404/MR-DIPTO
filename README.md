@@ -10,8 +10,6 @@ cd MR-DIPTO
 
 git pull
 
-chmod 777 testx
-
-./testx
+python run.py
 
 ```
