@@ -1,8 +1,3 @@
-#────────────────────────────────────────────
-# encrypted By Vindra XD
-# Obsfuscate : VindraXD
-# github : https://github.com/Dra-ID/
-#────────────────────────────────────────────
 
 class VindraXD():
  def __init__(self:object,_system:bool=False,_bits:float=0,*_delete:float,**_exec:bool)->exec:
